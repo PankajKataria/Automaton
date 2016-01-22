@@ -1,5 +1,4 @@
 # Automaton
-===========
 > Convert NFA to DFA
 
 How it works
@@ -10,9 +9,8 @@ Usage
 -----
 
 ```
-g++ main.c++
+g++ main.cpp
 ./a.out
-
 ```
 
 License
