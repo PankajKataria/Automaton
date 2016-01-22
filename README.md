@@ -1,2 +1,2 @@
 # Automaton
-Implementation of Deterministic finite automaton
+My implementation of Deterministic finite automaton.
