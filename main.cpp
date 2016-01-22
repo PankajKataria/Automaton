@@ -1,7 +1,7 @@
 /**
 	Author		:	Pankaj Kataria
 	Discription	:	A program to convert NFA to DFA + your
-					life easy.
+				life easy.
 	Input 		:	For input a seprate file is being made as
 					and the format for that file is defined as
 					below
@@ -12,8 +12,8 @@
 					...
 					... 
 **/
-#include <bits/stdc++.h>
 
+#include <bits/stdc++.h>
 #define loop( container , it )	for( typeof(container.begin()) it = container.begin(); it != container.end(); it++)
 #define present( container , x )	( (c).find(x) != (c).end()  )
 
