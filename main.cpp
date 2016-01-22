@@ -1,8 +1,7 @@
 /**
 	Author		:	Pankaj Kataria
-	Discription	:	A general class for an Automata which
-					can be used to make DFA/NFA + your life
-					easy.
+	Discription	:	A program to convert NFA to DFA + your
+					life easy.
 	Input 		:	For input a seprate file is being made as
 					and the format for that file is defined as
 					below
